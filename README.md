@@ -20,7 +20,7 @@ MonSite Pro est un site vitrine professionnel conçu pour promouvoir les service
 ## Installation
 1. Clonez ce dépôt sur votre machine locale :
     ```bash
-    git clone https://github.com/ton-utilisateur/nom-du-repo.git
+    git clone https://github.com/alexdevops007/static-web-site.git
     ```
 2. Ouvrez le fichier `index.html` dans votre navigateur préféré pour visualiser le site.
 
